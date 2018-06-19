@@ -1,0 +1,16 @@
+{
+  "name": "ponyracerJsonReviewApp",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+    "herokuconnect",
+    "heroku-postgresql"
+  ],
+  "buildpacks": [
+
+  ]
+}
